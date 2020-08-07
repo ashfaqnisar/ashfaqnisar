@@ -1,4 +1,4 @@
-<h1 align="center">Hello there 👋, I'm Ashfaq Nisar aka Ash</h1>
+<h1 align="center">Hello there 👋, I'm Ashfaq aka Ash</h1>
 <h3 align="center">I love contributing to the open source community</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashfaqnisar" alt="ashfaqnisar" /> </p>
