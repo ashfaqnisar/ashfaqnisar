@@ -1,14 +1,6 @@
 <h1 align="center">Hello there 👋, I'm Ashfaq aka Ash</h1>
 <h3 align="center">I love contributing to the open source community</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashfaqnisar" alt="ashfaqnisar" /> </p>
-
-- 🔭 I’m currently working on **some private projects**
-
-- 🌱 I’m currently learning **Graphql**
-
-- 📫 How to reach me **ashfaqnisar00@gmail.com**
-
 ### Technologies I love working with: 
 
 #### Front-End Technologies & Libraries:
@@ -23,14 +15,12 @@
 #### Other Technologies:
 <p align="center"><img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>  <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> </p>
 
-### Stats:
 
-<p> <img src="https://github-readme-stats.vercel.app/api?username=ashfaqnisar&show_icons=true" alt="ashfaqnisar" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashfaqnisar&layout=compact&hide=html" alt="ashfaqnisar" />
- </p>
-
-### Social Media Links:
+<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashfaqnisar&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ashfaqnisar stats" /></p> 
 
 <p align="center">
-<a href="https://twitter.com/ashfaqnisar00" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ashfaqnisar00" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/ashfaqnisar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ashfaqnisar" height="30" width="30" /></a>
+<a href="https://www.twitter.com/ashfaqnisar00" target="_blank"><img src="https://img.shields.io/badge/ashfaqnisar00-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Instagram"/>
+ <a href="mailto:ashfaqnisar00@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-ashfaqnisar00@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
+<a href="https://www.linkedin.com/in/ashfaqnisar" target="_blank"><img src="https://img.shields.io/badge/ashfaqnisar-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </p>
+
