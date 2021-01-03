@@ -16,9 +16,9 @@
 <p align="center"><img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>  <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> </p>
 
 
-<p> 
- <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=ashfaqnisar&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ashfaqnisar stats" />
- <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashfaqnisar&count_private=true&layout=compact&langs_count=8&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ashfaqnisar lang stats"/>
+<p align="center"> 
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashfaqnisar&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ashfaqnisar stats" />
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashfaqnisar&count_private=true&layout=compact&langs_count=8&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ashfaqnisar lang stats"/>
 </p> 
 
 ### 🤝🏻 &nbsp;Connect with Me
