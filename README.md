@@ -129,6 +129,8 @@ width="30" alt="dracula Image"/></h1>
 
 <h3>This week I spent my time on</h3>
 <img src="https://github-readme-stats.vercel.app/api/wakatime/?username=ashfaqnisar&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ashfaqnisar lang stats" height="180em"/>
+<img src="https://github.com/ashfaqnisar/ashfaqnisar/blob/main/images/stat.svg" alt="ashfaqnisar WakaTime Activity"/>
+
 
 <h3>Where to find me</h3>
 <p>
