@@ -113,7 +113,7 @@ width="30" alt="dracula Image"/></h1>
 </ul>
 
 <h3>Github Trophies</h3>
-<img src="https://github-profile-trophy.vercel.app/?username=ashfaqnisar&theme=dracula" /> 
+<img src="https://github-profile-trophy.vercel.app/?username=ashfaqnisar&theme=dracula&column=7" /> 
 
 <h3>Profile Stats</h3>
 <table>
