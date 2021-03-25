@@ -113,7 +113,7 @@ width="30" alt="dracula Image"/></h1>
 </ul>
 
 <h3>Github Trophies</h3>
-<img src="https://github-profile-trophy.vercel.app/?username=ashfaqnisar&theme=dracula&column=7" /> 
+<img src="https://github-profile-trophy.vercel.app/?username=ashfaqnisar&theme=dracula&column=7" />
 
 <h3>Profile Stats</h3>
 <table>
@@ -133,7 +133,7 @@ width="30" alt="dracula Image"/></h1>
 
 <h3>Where to find me</h3>
 <p>
-    <a href="https://github.com/ashfaqnisar" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+    <a href="https://stackoverflow.com/users/10963451/ashfaq-nisar" target="_blank"><img alt="Stackoverflow" src="https://img.shields.io/badge/StackOverFlow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a> 
     <a href="mailto:ashfaqnisar00@gmail.com" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Email-EA4335?&style=for-the-badge&logo=Gmail&logoColor=white" /></a> 
     <a href="https://twitter.com/ashfaqnisar00" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/ashfaqnisar" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
