@@ -36,7 +36,7 @@ width="30" alt="dracula Image"/></h1>
 </p>
 
 <h3>My latest articles</h3>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ashfaqnisar/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ashfaqnisar/0" alt="Recent Article 2">
+<a target="_blank" href="https://ashfaqnisar.medium.com/getting-started-with-reduxjs-toolkit-7caaf460613c"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ashfaqnisar/0" alt="Recent Article 2">
 
 
 <h3>Github Trophies</h3>
