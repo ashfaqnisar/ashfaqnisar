@@ -1,4 +1,4 @@
-<h1>Hey! I am Ash <img src="https://ashfaqnisar.me/images/dracula.svg" 
+<h1>Hey! I am Ash <img src="https://draculatheme.com/static/icons/used/pack-1/045-dracula.svg" 
 width="30" alt="dracula Image"/></h1>
 
 
