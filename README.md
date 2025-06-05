@@ -1,5 +1,5 @@
 <h1>Hey! I am Ash <img src="https://draculatheme.com/images/hero/dracula-icon.svg" 
-width="30" alt="dracula Image"/></h1>
+width="60" height="60" alt="dracula Image"/></h1>
 
 
 <p>A Guy who loves to take <b>Risks</b> and <b>Develop Software's</b>. Hustler for life!.</p>
